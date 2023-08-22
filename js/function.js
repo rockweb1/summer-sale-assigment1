@@ -147,7 +147,7 @@ document.getElementById('apply_btn').addEventListener('click', function(){
     }
     else
     {
-        alert('sorry! you can not but product 200tk');
+        alert('sorry! you can not buy product upto 200tk');
     }
 });
 
@@ -167,5 +167,11 @@ document.getElementById('apply_btn').addEventListener('click', function(){
    }
 
    }
+
+
+//    document.getElementById('sell200').addEventListener('click', function(){
+
+        
+//    });
 
 
